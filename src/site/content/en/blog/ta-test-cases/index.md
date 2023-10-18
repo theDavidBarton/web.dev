@@ -16,7 +16,7 @@ tags:
   - testing
 ---
 
-In the [previous post](/ta-strategies/), you learned about testing strategies, the number of tests needed to test an application, and how to find the best fit to gain the most confidence in the results while bearing in mind your resources. However, this only gives us an idea of how much to test. You still need to determine exactly what to test.
+In the [previous post](/articles/ta-strategies/), you learned about testing strategies, the number of tests needed to test an application, and how to find the best fit to gain the most confidence in the results while bearing in mind your resources. However, this only gives us an idea of how much to test. You still need to determine exactly what to test.
 The following three criteria can be helpful in understanding what to expect in a test and to see what testing type and level of detail might fit best:
 
 1. **Take care of your happy path**. This is the most generic or primary user story of your application, where your user will notice an error very quickly. 
@@ -102,7 +102,7 @@ In automated testing, you don’t need to document all these test cases in the w
 
 {% Aside %}
 This blog post was written by Ramona, with input and review from
-[Jecelyn Yeen](/authors/jecelynyeen/)
+[Jecelyn Yeen](https://developer.chrome.com/authors/jecelynyeen/)
 ([Twitter](https://twitter.com/jecfish)),
 [Michael Hablich](https://www.linkedin.com/in/michael-hablich-2128646/)
 ([Twitter](https://twitter.com/MHablich)), and [Rachel Andrew](/authors/rachelandrew/). Special thanks to [Sofia Emelianova](https://www.linkedin.com/in/sofia-yemelianova/) for supporting the publication process.
